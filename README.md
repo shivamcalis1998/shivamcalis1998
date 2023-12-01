@@ -19,9 +19,9 @@
 <p align="left">
 <a href="https://www.instagram.com/imshivmswami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_imshivmswami" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/shivam-swami-945473247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/src/images/icons/Social/linked-in.svg" alt="Your LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-swami-945473247/" target="blank"><img align="center" src="https://www.linkedin.com/in/shivam-swami-945473247/" alt="Your LinkedIn" height="40" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/shivam-swami-945473247/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
