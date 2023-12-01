@@ -29,3 +29,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamcalis1998&show_icons=true&locale=en" alt="shivamcalis1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamcalis1998&" alt="shivamcalis1998" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shivamcalis1998&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shivamcalis1998&icon=2&color=12)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@shivamcalis) 
