@@ -9,7 +9,7 @@
 
 - 👨‍💻My Portfolio [https://shivamcalis1998.github.io/](https://shivamcalis1998.github.io/) 
 
-- 💬 Ask me about **React.js,Redux,JavaScript,HTML,CSS,Java,DSA,**
+- 💬 Ask me about **React.js,Redux,tailwind,JavaScript,HTML,CSS,Java,DSA,**
 
 - 📫 How to reach me **shivamswami8899@gmail.com**
 
